@@ -1,3 +1,3 @@
 # wsdm
 
-For now, quick and dirty data analysis to tackle WSDM Kaggle's competition.
+Data exploration to tackle WSDM Kaggle's competition.
